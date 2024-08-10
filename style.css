@@ -71,9 +71,9 @@ h1 {
   font-weight: 700;
   background-color: white;
   color: black;
-  padding: 8px;
+  padding: 12px;
   border: none;
-  border-radius: 80px;
+  border-radius: 50%;
   margin-top: 40px;
   font-family: 'Dancing Script', cursive;
   cursor: pointer;
