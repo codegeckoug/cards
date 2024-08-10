@@ -112,9 +112,9 @@ p {
 }
 .btn {
   width: 100px;
-  padding: 8px;
+  padding: 10px 12px 14px 12px;
   border: none;
-  border-radius: 50%;
+  border-radius: 90px;
   margin-top: 20px;
   font-family: 'Dancing Script', cursive;
   cursor: pointer;
